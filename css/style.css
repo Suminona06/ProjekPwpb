@@ -205,7 +205,7 @@ header{
 /* Home */
 .home {
     position: relative;
-    min-height: 540px;
+    min-height: 650px;
     display: flex;
     align-items: center;
     justify-content: flex-end;
